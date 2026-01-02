@@ -13,7 +13,7 @@ https://live-hls-web-aja-gcp.thehlive.com/AJA/index.m3u8
 https://mdnlv.cdn.octivid.com/almdn/smil:mpegts.stream.smil/playlist.m3u8
 
 #EXTINF:-1 group-title="France", 6ter
-https://artesimulcast.akamaized.net/hls/live/2031003/artelive_fr/index.m3u8
+https://cachehsi1a.netplus.ch/tok_eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJleHAiOiIxNzY3NDE3NDM1Iiwic2lwIjoiIiwicGF0aCI6Ii9saXZlL2Vkcy82dGVyL2Jyb3dzZXItSExTOC8iLCJzZXNzaW9uX2Nkbl9pZCI6IjU2MzExNmU0ZjNlNjFiMDQiLCJzZXNzaW9uX2lkIjoiIiwiY2xpZW50X2lkIjoiIiwiZGV2aWNlX2lkIjoiIiwibWF4X3Nlc3Npb25zIjowLCJzZXNzaW9uX2R1cmF0aW9uIjowLCJ1cmwiOiJodHRwczovLzEwLjAuMjI5LjE4Iiwic2Vzc2lvbl90aW1lb3V0IjowLCJhdWQiOiI0MSIsInNvdXJjZXMiOlsxMDBdfQ==.ro3PQOXMY39z7Ol-CDfGf0MtCPbXqf02OZcSAFUEgwHtpHSomcfPbt5BrAxjH87wxVQnEuE_k_fgllvhJaj25A==/live/eds/6ter/browser-HLS8/6ter.m3u8
 
 #EXTINF:-1 group-title="France", 20 Minutes TV
 https://live-20minutestv.digiteka.com/1961167769/index.m3u8
