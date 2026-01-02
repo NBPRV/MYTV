@@ -6,8 +6,14 @@ https://live.alarabiya.net/alarabiapublish/alarabiya.smil/playlist.m3u8
 #EXTINF:-1 group-title="Arabic", Al Hadath
 https://av.alarabiya.net/alarabiapublish/alhadath.smil/playlist.m3u8
 
-#EXTINF:-1 group-title="Arabic", Al Hadath 1
-https://shd-gcp-live.edgenextcdn.net/live/bitmovin-hadath/2ff87ec4c2f3ede35295a20637d9f8fd/index.m3u8
+#EXTINF:-1 group-title="Arabic", Al Jazeera Arabic
+https://live-hls-web-aja-gcp.thehlive.com/AJA/index.m3u8
+
+#EXTINF:-1 group-title="Arabic", Al Jazeera Documentary
+https://live-hls-web-ajd-gcp.thehlive.com/AJD/index.m3u8
+
+#EXTINF:-1 group-title="Arabic", Al Mayadeen
+https://mdnlv.cdn.octivid.com/almdn/smil:mpegts.stream.smil/playlist.m3u8
 
 #EXTINF:-1 group-title="Lebanon",Mtv Lebanon
 https://www.elahmad.com/tv/radiant.php?id=mtv_1
