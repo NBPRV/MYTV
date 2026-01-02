@@ -1,9 +1,6 @@
 #EXTM3U
 
-#EXTINF:-1,------ Arabic ----------
-http://185.2.83.209:8000/live/123456/123456/158.ts
-
-#EXTINF:-1,AR: Mtv Lebanon
+#EXTINF:-1, tvg-id="MTV.lb" tvg-name="MTV Lebanon" tvg-logo="https://www.nicepng.com/ourpic/u2q8e6y3q8e6q8u2_mtv-lebanon/" group-title="Lebanon",Mtv Lebanon
 http://185.2.83.209:8000/live/123456/123456/2253.ts
 
 #EXTINF:-1,AR: LDC
