@@ -12,6 +12,9 @@ https://live-hls-web-aja-gcp.thehlive.com/AJA/index.m3u8
 #EXTINF:-1 group-title="Arabic", Al Mayadeen
 https://mdnlv.cdn.octivid.com/almdn/smil:mpegts.stream.smil/playlist.m3u8
 
+#EXTINF:-1 group-title="France", 100% DOCS
+https://amg02162-newenconnect-amg02162c2-rakuten-us-1981.playouts.now.amagi.tv/playlist/amg02162-newenconnect-100pour100docs-rakutenus/playlist.m3u8
+
 #EXTINF:-1 group-title="France", 6ter (No Sound)
 https://viamotionhsi.netplus.ch/live/eds/6ter/browser-dash/6ter.mpd
 
