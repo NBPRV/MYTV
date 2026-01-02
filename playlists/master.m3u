@@ -1,5 +1,14 @@
 #EXTM3U
 
+#EXTINF:-1 group-title="Arabic",Al Arabiya
+https://live.alarabiya.net/alarabiapublish/alarabiya.smil/playlist.m3u8
+
+#EXTINF:-1 group-title="Arabic", Al Hadath
+https://av.alarabiya.net/alarabiapublish/alhadath.smil/playlist.m3u8
+
+#EXTINF:-1 group-title="Arabic", Al Hadath 1
+https://shd-gcp-live.edgenextcdn.net/live/bitmovin-hadath/2ff87ec4c2f3ede35295a20637d9f8fd/index.m3u8
+
 #EXTINF:-1 group-title="Lebanon",Mtv Lebanon
 https://www.elahmad.com/tv/radiant.php?id=mtv_1
 
