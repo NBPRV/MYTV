@@ -31,8 +31,7 @@ https://viamotionhsi.netplus.ch/live/eds/animaux/browser-HLS8/animaux.m3u8
 https://d1ib1gsg71oarf.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-scp7wda722jph/BFM2_FR.m3u8
 
 #EXTINF:-1 group-title="France", BFM Business (Not Working)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
-https://ncdn-live-bfm.pfd.sfr.net/shls/LIVE$BFM_BUSINESS/index.m3u8?end=END&start=LIVE
+https://live-cdn-stream-euw1.bfmb.bct.nextradiotv.com/master.m3u8
 
 #EXTINF:-1 group-title="France", BFM TV
 https://live-cdn-stream-euw1.bfmtv.bct.nextradiotv.com/master.m3u8?bpkio_serviceid=7de32147a4f1055b7ea82c2886420955&bpkio_sessionid=10b0b37d111-fc2cf8ba-7b8b-4e63-b22b-b73f21206371&category=all
