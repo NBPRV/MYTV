@@ -39,7 +39,7 @@ https://live-cdn-stream-euw1.bfmtv.bct.nextradiotv.com/master.m3u8?bpkio_service
 #EXTINF:-1 group-title="France", CANAL+ (Not Working)
 https://viamotionhsi.netplus.ch/live/eds/canalplusclair/browser-HLS8/canalplusclair.m3u8
 
-#EXTINF:-1 group-title="France", CNews (No Sound)
+#EXTINF:-1 group-title="France", CNews (Not Working)
 https://raw.githubusercontent.com/Sibprod/streams/main/ressources/dm/py/hls/cnews.m3u8
 
 #EXTINF:-1 group-title="France", France 24 (Not Working)
@@ -48,10 +48,10 @@ https://dash4.antik.sk/live/test_france24_france/playlist.m3u8
 #EXTINF:-1 group-title="France", L'Equipe (Not Working)
 https://dshn8inoshngm.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-gac2i63dmu8b7/LEquipe_FR.m3u8
 
-#EXTINF:-1 group-title="France", LCI (Not Working)
+#EXTINF:-1 group-title="France", LCI
 https://raw.githubusercontent.com/ipstreet312/freeiptv/master/ressources/btv/py/lci1.m3u8
 
-#EXTINF:-1 group-title="France", France 2
+#EXTINF:-1 group-title="France", France 2 (Not Working)
 https://viamotionhsi.netplus.ch/live/eds/france2hd/browser-dash/france2hd.mpd
 
 
