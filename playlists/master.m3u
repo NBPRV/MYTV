@@ -12,5 +12,41 @@ https://live-hls-web-aja-gcp.thehlive.com/AJA/index.m3u8
 #EXTINF:-1 group-title="Arabic", Al Mayadeen
 https://mdnlv.cdn.octivid.com/almdn/smil:mpegts.stream.smil/playlist.m3u8
 
+#EXTINF:-1 group-title="France", 6ter
+https://viamotionhsi.netplus.ch/live/eds/6ter/browser-HLS8/6ter.m3u8
+
+#EXTINF:-1 group-title="France", 20 Minutes TV
+https://live-20minutestv.digiteka.com/1961167769/index.m3u8
+
+#EXTINF:-1 group-title="France", Arte
+https://artesimulcast.akamaized.net/hls/live/2031003/artelive_fr/index.m3u8
+
+#EXTINF:-1 group-title="France", Animaux
+https://cachehsi1a.netplus.ch/tok_eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJleHAiOiIxNzY3NDE1ODYwIiwic2lwIjoiIiwicGF0aCI6Ii9saXZlL2Vkcy9hbmltYXV4L2Jyb3dzZXItSExTOC8iLCJzZXNzaW9uX2Nkbl9pZCI6IjZmMDg5OWI5MmE2ZTY3NjAiLCJzZXNzaW9uX2lkIjoiIiwiY2xpZW50X2lkIjoiIiwiZGV2aWNlX2lkIjoiIiwibWF4X3Nlc3Npb25zIjowLCJzZXNzaW9uX2R1cmF0aW9uIjowLCJ1cmwiOiJodHRwczovLzEwLjAuMjI5LjE5Iiwic2Vzc2lvbl90aW1lb3V0IjowLCJhdWQiOiI0MSIsInNvdXJjZXMiOls0OF19.uOd7iMUmxz_pbEgBBiEQRG3vgvXaGYS3WmQBU66UgHKnIyRO4tObg7TharYXXRLIWf0QymNPUH02p7MKZl2VoQ==/live/eds/animaux/browser-HLS8/animaux.m3u8
+
+#EXTINF:-1 group-title="France", BFM2
+https://d1ib1gsg71oarf.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-scp7wda722jph/BFM2_FR.m3u8
+
+#EXTINF:-1 group-title="France", BFM Business
+live-cdn-stream-euw1.bfmb.bct.nextradiotv.com/master.m3u8?bpkio_serviceid=7de32147a4f1055b7de133c00ff64f92&bpkio_sessionid=10d0e11e11-915b3fa8-a9a0-4602-a5c2-135f84d034a7&category=all
+
+#EXTINF:-1 group-title="France", BFM TV
+https://live-cdn-stream-euw1.bfmtv.bct.nextradiotv.com/master.m3u8?bpkio_serviceid=7de32147a4f1055b7ea82c2886420955&bpkio_sessionid=10b0b37d111-fc2cf8ba-7b8b-4e63-b22b-b73f21206371&category=all
+
+#EXTINF:-1 group-title="France", CANAl+
+https://cache1a.netplus.ch/tok_eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJleHAiOiIxNzY3NDE2MDcwIiwic2lwIjoiIiwicGF0aCI6Ii9saXZlL2Vkcy9jYW5hbHBsdXNjbGFpci9icm93c2VyLUhMUzgvIiwic2Vzc2lvbl9jZG5faWQiOiI4ZTZhNmU0MDBiNWMxZTcxIiwic2Vzc2lvbl9pZCI6IiIsImNsaWVudF9pZCI6IiIsImRldmljZV9pZCI6IiIsIm1heF9zZXNzaW9ucyI6MCwic2Vzc2lvbl9kdXJhdGlvbiI6MCwidXJsIjoiaHR0cHM6Ly8xMC4wLjIyOS4yMiIsInNlc3Npb25fdGltZW91dCI6MCwiYXVkIjoiNTMiLCJzb3VyY2VzIjpbODRdfQ==.36MNfB6Raei8WAfGZnq6xJdGY-u2vr3LpaD3vfiSbT6cgW7pYKs7F5gugglDH_YUq-3Rxp512a1HYB83XyuIFw==/live/eds/canalplusclair/browser-HLS8/canalplusclair.m3u8
+
+#EXTINF:-1 group-title="France", CNews
+https://cachehsi1a.netplus.ch/tok_eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJleHAiOiIxNzY3NDE2MTM5Iiwic2lwIjoiIiwicGF0aCI6Ii9saXZlL2Vkcy9pdGVsZS9icm93c2VyLUhMUzgvIiwic2Vzc2lvbl9jZG5faWQiOiJiNjYxZTFkMDVjNTdlZTkwIiwic2Vzc2lvbl9pZCI6IiIsImNsaWVudF9pZCI6IiIsImRldmljZV9pZCI6IiIsIm1heF9zZXNzaW9ucyI6MCwic2Vzc2lvbl9kdXJhdGlvbiI6MCwidXJsIjoiaHR0cHM6Ly8xMC4wLjIyOS4xOSIsInNlc3Npb25fdGltZW91dCI6MCwiYXVkIjoiNDEiLCJzb3VyY2VzIjpbNDhdfQ==.JGDyYl6SLe0S-kO1De9Ekbv0N7AWwauWCNe77RfQ89cvgsefH8WwpFYoGc8QhHqHW3VO5-20-xHmgbHRpjfFjw==/live/eds/itele/browser-HLS8/itele.m3u8
+
+#EXTINF:-1 group-title="France", France 24
+https://dash4.antik.sk/live/test_france24_france/playlist.m3u8
+
+#EXTINF:-1 group-title="France", L'Equipe
+https://dshn8inoshngm.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-gac2i63dmu8b7/LEquipe_FR.m3u8
+
+#EXTINF:-1 group-title="France", LCI
+https://raw.githubusercontent.com/ipstreet312/freeiptv/master/ressources/btv/py/lci1.m3u8
+
 #EXTINF:-1 group-title="Lebanon",Mtv Lebanon
 https://shls-live-enc.edgenextcdn.net/out/v1/45ad6fbe1f7149ad9f05f8aefc38f6c0/index.m3u8
