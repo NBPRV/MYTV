@@ -13,14 +13,5 @@ https://live-hls-web-aja-gcp.thehlive.com/AJA/index.m3u8
 https://mdnlv.cdn.octivid.com/almdn/smil:mpegts.stream.smil/playlist.m3u8
 
 #EXTINF:-1 group-title="Lebanon",Mtv Lebanon
-https://www.elahmad.com/tv/radiant.php?id=mtv_1
+https://hms.pfs.gdn/v1/broadcast/mtv/playlist.m3u8
 
-#EXTINF:-1 group-title="Lebanon",LDC
-http://185.2.83.209:8000/live/123456/123456/24.ts
-
-#EXTINF:-1 group-title="Lebanon",LDC2
-http://185.2.83.209:8000/live/123456/123456/2257.ts
-
-#EXTINF:-1 tvg-id="Tele Liban ARB" tvg-name="Tele Liban ARB" tvg-logo="https://www.elahmad.com/tv/mobiletv/images/teleliban.jpg?v=7" group-title="Lebanon",Tele Liban
-#EXTVLCOPT:http-referrer=https://www.teleliban.com.lb/live
-https://cdn.catiacast.video/abr/ed8f807e2548db4507d2a6f4ba0c4a06/playlist.m3u8
