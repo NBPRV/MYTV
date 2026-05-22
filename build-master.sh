@@ -11,14 +11,20 @@ while IFS='|' read -r country src; do
   [[ -z "$country" || "$country" =~ ^# ]] && continue
   [[ -z "$src" ]] && continue
 
+  CHUNK="$(mktemp)"
+
   if [[ "$src" == local:* ]]; then
     file="${src#local:}"
-    tail -n +2 "$file" >> "$TMP"
+    tail -n +2 "$file" > "$CHUNK"
   else
-    curl -L --silent "$src" | tail -n +2 >> "$TMP"
+    curl -L --silent "$src" | tail -n +2 > "$CHUNK"
   fi
 
-  sed -i "s/group-title=\"[^\"]*\"/group-title=\"$country\"/g" "$TMP"
+  sed "s/group-title=\"[^\"]*\"/group-title=\"$country\"/g" "$CHUNK" >> "$TMP"
+
+  echo "" >> "$TMP"
+  rm "$CHUNK"
+
 done < sources.txt
 
 awk '
@@ -33,4 +39,5 @@ awk '
 ' "$TMP" >> "$OUT"
 
 rm "$TMP"
+
 echo "Built $OUT"
