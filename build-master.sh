@@ -9,7 +9,8 @@ mkdir -p playlists
 echo "#EXTM3U" > "$OUT"
 
 while read -r src; do
-  [ -z "$src" ] && continue
+  # ignore empty lines and comments
+  [[ -z "$src" || "$src" =~ ^# ]] && continue
 
   if [[ "$src" == local:* ]]; then
     file="${src#local:}"
@@ -33,4 +34,5 @@ awk '
 ' "$TMP" >> "$OUT"
 
 rm "$TMP"
+
 echo "Built $OUT"
