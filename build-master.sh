@@ -5,12 +5,11 @@ OUT="playlists/master.m3u"
 TMP="$(mktemp)"
 
 mkdir -p playlists
-
 echo "#EXTM3U" > "$OUT"
 
-while read -r src; do
-  # ignore empty lines and comments
-  [[ -z "$src" || "$src" =~ ^# ]] && continue
+while IFS='|' read -r country src; do
+  [[ -z "$country" || "$country" =~ ^# ]] && continue
+  [[ -z "$src" ]] && continue
 
   if [[ "$src" == local:* ]]; then
     file="${src#local:}"
@@ -19,7 +18,7 @@ while read -r src; do
     curl -L --silent "$src" | tail -n +2 >> "$TMP"
   fi
 
-  echo "" >> "$TMP"
+  sed -i "s/group-title=\"[^\"]*\"/group-title=\"$country\"/g" "$TMP"
 done < sources.txt
 
 awk '
@@ -34,5 +33,4 @@ awk '
 ' "$TMP" >> "$OUT"
 
 rm "$TMP"
-
 echo "Built $OUT"
