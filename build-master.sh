@@ -7,7 +7,10 @@ TMP="$(mktemp)"
 mkdir -p playlists
 echo "#EXTM3U" > "$OUT"
 
-while IFS='|' read -r country src; do
+while IFS='|' read -r country src || [[ -n "$country$src" ]]; do
+  country="${country//$'\r'/}"
+  src="${src//$'\r'/}"
+
   [[ -z "$country" || "$country" =~ ^# ]] && continue
   [[ -z "$src" ]] && continue
 
@@ -15,16 +18,26 @@ while IFS='|' read -r country src; do
 
   if [[ "$src" == local:* ]]; then
     file="${src#local:}"
+
+    if [[ ! -f "$file" ]]; then
+      echo "Missing local file: $file" >&2
+      rm "$CHUNK"
+      continue
+    fi
+
     tail -n +2 "$file" > "$CHUNK"
   else
-    curl -L --silent "$src" | tail -n +2 > "$CHUNK"
+    if ! curl -L --fail --silent --show-error "$src" | tail -n +2 > "$CHUNK"; then
+      echo "Failed source: $src" >&2
+      rm "$CHUNK"
+      continue
+    fi
   fi
 
   sed "s/group-title=\"[^\"]*\"/group-title=\"$country\"/g" "$CHUNK" >> "$TMP"
-
   echo "" >> "$TMP"
-  rm "$CHUNK"
 
+  rm "$CHUNK"
 done < sources.txt
 
 awk '
