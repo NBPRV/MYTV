@@ -3,5 +3,4 @@
 
 Lebanon|https://iptv-org.github.io/iptv/countries/lb.m3u
 France|https://iptv-org.github.io/iptv/countries/fr.m3u
-FrRakuten|https://iptv-org.github.io/iptv/streams/fr_rakuten.m3u
 Custom|local:playlists/custom.m3u
