@@ -4,4 +4,5 @@
 Lebanon|https://iptv-org.github.io/iptv/countries/lb.m3u
 France|https://iptv-org.github.io/iptv/countries/fr.m3u
 US|https://tvpass.org/playlist/m3u
+Arabic|https://iptv-org.github.io/iptv/languages/ara.m3u
 Custom|local:playlists/custom.m3u
