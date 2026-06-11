@@ -7,3 +7,4 @@ US|https://tvpass.org/playlist/m3u
 Arabic|https://iptv-org.github.io/iptv/regions/arab.m3u
 USTV|https://iptv-org.github.io/iptv/countries/us.m3u
 Custom|local:playlists/custom.m3u
+Qatar|https://iptv-org.github.io/iptv/countries/qa.m3u
