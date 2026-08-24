@@ -1304,6 +1304,9 @@ https://jmp2.uk/plu-660c29b5aec9680008f5b4a4.m3u8
 #EXTINF:-1 tvg-id="FightBox.nl@SD" tvg-logo="https://i.imgur.com/mRsnztA.png" http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.3" group-title="Arabic",FightBox
 https://webtvstream.bhtelecom.ba/fightbox.m3u8
 
+#EXTINF:-1 tvg-id="FightBox.nl@HD" tvg-logo="https://i.imgur.com/mRsnztA.png" group-title="Arabic",FightBox HD
+https://nosignal1.antenaplay.ro/hls/fightbox-hd/index.m3u8
+
 #EXTINF:-1 tvg-id="FILMBOXPlusFestival.pl@SD" tvg-logo="https://spiintl.com/data/files/kcfinderUploadDir/images/filmboxplus/filmbox%2Bfestival.png" group-title="Arabic",FILMBOX+ Festival
 https://dash3.antik.sk/live/test_filmbox_arthouse_atk_1200/playlist.m3u8
 
@@ -1523,6 +1526,9 @@ https://livefa.marjaeyattv.com/mtv_en/playlist.m3u8
 #EXTINF:-1 tvg-id="MarjaeyatTVPersian.iq@SD" tvg-logo="https://i.imgur.com/fCj05f0.png" group-title="Arabic",Marjaeyat TV Persian (240p) [Not 24/7]
 https://livefa.marjaeyattv.com/mtv_fa/playlist.m3u8
 
+#EXTINF:-1 tvg-id="MasterChefsAcademyTV.uk@HD" tvg-logo="https://platform-iuoamc.uk/storage/tv/branding/mca-tv-official-logo.png" group-title="Arabic",Master Chefs Academy TV (720p)
+https://platform-iuoamc.uk/iptv/mca-tv/index.m3u8
+
 #EXTINF:-1 tvg-id="Mazzika.eg@SD" tvg-logo="https://i.imgur.com/P7PUHIx.png" group-title="Arabic",Mazzika (576p)
 http://149.100.11.235:8080/Mazzika/index.m3u8
 
@@ -1618,6 +1624,9 @@ http://htvmada.mada.ps:8888/nabluslive/index.m3u8
 
 #EXTINF:-1 tvg-id="NBTWorld.th@SD" tvg-logo="https://i.imgur.com/GUQhLeg.png" group-title="Arabic",NBT World (1080p)
 https://cdn-edge.iiptvcdn.com/live_event/smil:d36f-93c1-9c58-fdcc-427f.smil/playlist.m3u8
+
+#EXTINF:-1 tvg-id="NHKWorldPremium.jp@SD" tvg-logo="https://i.imgur.com/4ESi2La.png" group-title="Arabic",NHK World Premium (720p)
+https://media-tyo.hls.nhkworld.jp/hls/wp/live/master.m3u8
 
 #EXTINF:-1 tvg-id="NHKWorldJapan.jp@SD" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/NHK_World_Japan.png" group-title="Arabic",NHK World-Japan (1080p)
 https://masterpl.hls.nhkworld.jp/hls/w/live/smarttv.m3u8
@@ -5195,9 +5204,6 @@ https://cs.ebmcdn.net/eastbay-live-hs-1/fcps/mp4:fcps/playlist.m3u8
 #EXTINF:-1 tvg-id="RedBullTV.at@US" tvg-logo="https://images.pluto.tv/channels/5e7cb84a172a0f0007da69e4/colorLogoPNG.png" group-title="USTV",Red Bull TV US (1080p)
 https://0b73ace69ebb45eaa249bb87837cb958.mediatailor.us-west-2.amazonaws.com/v1/master/ba62fe743df0fe93366eba3a257d792884136c7f/LINEAR-644-WORBUSENFAST-LG_US/644/lgtv/hls/master/playlist.m3u8
 
-#EXTINF:-1 tvg-id="RedseatTheFirst.us@SD" tvg-logo="https://i.imgur.com/t794qkT.png" group-title="USTV",Redseat The First (720p)
-https://a-cdn.klowdtv.com/live2/thefirst_720p/playlist.m3u8
-
 #EXTINF:-1 tvg-id="Reelz.us@SD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/19/Reelz.svg/960px-Reelz.svg.png" group-title="USTV",Reelz (720p)
 http://23.237.104.106:8080/USA_REELZ/index.m3u8
 
@@ -5381,23 +5387,8 @@ https://cdn-shop-lc-01.akamaized.net/Content/DASH_DASH/Live/channel(ott)/master.
 #EXTINF:-1 tvg-id="ShoutFactoryTV.us@SD" tvg-logo="https://i.imgur.com/AgoGr6y.png" group-title="USTV",Shout! TV (1080p)
 https://d1s1wrpgemt9re.cloudfront.net/Shout_TV.m3u8
 
-#EXTINF:-1 tvg-id="Showtime.us@East" tvg-logo="https://i.imgur.com/Or0LKsu.png" group-title="USTV",Showtime (720p)
-https://gpuserver5.tier1streams.com/SHOWTIME/index.m3u8
-
-#EXTINF:-1 tvg-id="Showtime2.us@East" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/22/Showtime.svg/960px-Showtime.svg.png" group-title="USTV",Showtime 2 (720p)
-https://gpuserver5.tier1streams.com/SHOWTIME_2/index.m3u8
-
-#EXTINF:-1 tvg-id="ShowtimeExtreme.us@East" tvg-logo="https://i.imgur.com/byJNJdm.png" group-title="USTV",Showtime Extreme (720p)
-https://gpuserver5.tier1streams.com/SHOWTIME_EXTREME/index.m3u8
-
 #EXTINF:-1 tvg-id="ShowtimeFamilyZone.us@East" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/22/Showtime.svg/960px-Showtime.svg.png" group-title="USTV",Showtime Family Zone (720p)
 http://23.237.104.106:8080/USA_SHOWTIME_FAMILY/index.m3u8
-
-#EXTINF:-1 tvg-id="ShowtimeNext.us@East" tvg-logo="https://i.imgur.com/1Ak2MX2.png" group-title="USTV",Showtime Next (720p)
-https://gpuserver5.tier1streams.com/SHOWTIME_NEXT/index.m3u8
-
-#EXTINF:-1 tvg-id="Showtime.us@West" tvg-logo="https://i.imgur.com/Or0LKsu.png" group-title="USTV",Showtime West (720p)
-https://gpuserver5.tier1streams.com/SHOWTIME_WEST/index.m3u8
 
 #EXTINF:-1 tvg-id="SitcomLegends.us@SD" tvg-logo="https://images.pluto.tv/channels/633354b63df9700007f6a1b7/colorLogoPNG.png" group-title="USTV",Sitcom Legends
 https://jmp2.uk/plu-633354b63df9700007f6a1b7.m3u8
@@ -5531,8 +5522,8 @@ https://stream.swamiji.tv/YogaIPTV/smil:YogaStreamUS.smil/playlist.m3u8
 #EXTINF:-1 tvg-id="SwerveSports.us@SD" tvg-logo="https://i.imgur.com/GT0Yi2T.png" group-title="USTV",Swerve Combat (1080p)
 https://linear-253.frequency.stream/mt/roku/253/hls/master/playlist.m3u8
 
-#EXTINF:-1 tvg-id="SYFY.us@East" tvg-logo="https://i.imgur.com/4fMWhUE.png" group-title="USTV",SYFY (1080p)
-https://gpuserver5.tier1streams.com/SYFY/index.m3u8
+#EXTINF:-1 tvg-id="SYFY.us@East" tvg-logo="https://i.imgur.com/4fMWhUE.png" group-title="USTV",SYFY (720p)
+http://23.237.104.106:8080/USA_SYFY/index.m3u8
 
 #EXTINF:-1 tvg-id="TaiwanPlusTV.tw@SD" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Taiwan_Plus.png" group-title="USTV",Taiwan Plus TV (1080p)
 https://bcovlive-a.akamaihd.net/rce33d845cb9e42dfa302c7ac345f7858/ap-northeast-1/6282251407001/playlist.m3u8
@@ -5591,8 +5582,8 @@ https://haititivi.com/haiti/telemix1/index.m3u8
 #EXTINF:-1 tvg-id="Telemundo.us@East" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/68/Telemundo_logo_2018.svg/960px-Telemundo_logo_2018.svg.png" group-title="USTV",Telemundo (720p)
 http://190.11.225.124:5000/live/telemundo_hd/playlist.m3u8
 
-#EXTINF:-1 tvg-id="TelemundoAlDia.us@HD" tvg-logo="https://images.fubo.tv/channel-config-ui/station-logos/on-white/telemundo_al_dia_1000x1500_2x3_logo_300dpi_vertical_full_color_logo_xumo-3-copy.png" group-title="USTV",Telemundo Al Dia
-https://d1rqgw5gocwo9i.cloudfront.net/manifest/3fec3e5cac39a52b2132f9c66c83dae043dc17d4/prod_default_xumo-nbcu-stitched/10a44c37-f976-4d2b-ab23-8637a7a094ca/3.m3u8
+#EXTINF:-1 tvg-id="TelemundoAlDia.us@HD" tvg-logo="https://images.fubo.tv/channel-config-ui/station-logos/on-white/telemundo_al_dia_1000x1500_2x3_logo_300dpi_vertical_full_color_logo_xumo-3-copy.png" group-title="USTV",Telemundo Al Dia (720p)
+https://d3f4oii5n0oeqi.cloudfront.net/11701/88814573/hls/master.m3u8?ads.xumo_channelId=88814573
 
 #EXTINF:-1 tvg-id="TelemundoCorpusChristi.us@SD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/98/Telemundo_Corpus_Christi_logo.png" group-title="USTV",Telemundo Corpus Christi (720p)
 https://content.uplynk.com/channel/b6a96ed39d694ae1b738faa98cf7dd3f.m3u8
@@ -6316,6 +6307,9 @@ https://amg00327-coxmediagroup-wsocbreaking-plex-t51et.amagi.tv/playlist/amg0032
 
 #EXTINF:-1 tvg-id="WSOCTV91.us@HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/27/WWAY_logo.png" group-title="USTV",WSOC-DT1 (1080p)
 https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg00327-coxmediagroup-wsocbreaking-ono/playlist.m3u8
+
+#EXTINF:-1 tvg-id="WTMOCD311.us@HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3d/Telemundo_31_(2019).svg/960px-Telemundo_31_(2019).svg.png" group-title="USTV",WTMO-CD 31.1 (720p)
+https://d368vp0qqzvkid.cloudfront.net/manifest/3fec3e5cac39a52b2132f9c66c83dae043dc17d4/prod_default_nbc-direct/adcee832-5511-4ed1-bcef-58616c0f530f/4.m3u8
 
 #EXTINF:-1 tvg-id="WTNH81.us@HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/27/WWAY_logo.png" group-title="USTV",WTNH-DT1 (720p)
 https://tkx.mp.lura.live/rest/v2/mcp/video/11135425.m3u8?anvack=pDKqMLyG9pVqMkSYRJHWu3XROjAlvR6z&eud=1iqQ+zazzEobWIhmmj6bA8STRJm4HceYQApO7QYBvy9BTps0KI7LuXGD4KK7RLtBTyO8KsbFw40vgX8hrw+xqw==
