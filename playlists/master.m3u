@@ -1271,8 +1271,8 @@ https://jmp2.uk/plu-6639d7d4b18d700008da5316.m3u8
 #EXTINF:-1 tvg-id="EuronewsEnglish.fr@SD" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Euro_News.png" group-title="Arabic",Euronews English (720p)
 https://jmp2.uk/plu-61de96114757070008d33cae.m3u8
 
-#EXTINF:-1 tvg-id="EuronewsEnglish.fr@HD" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Euro_News.png" group-title="Arabic",Euronews English HD (720p)
-http://45.190.28.50/EURONEWS_HD/index.m3u8
+#EXTINF:-1 tvg-id="EuronewsEnglish.fr@HD" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Euro_News.png" group-title="Arabic",Euronews English HD
+https://dash4.antik.sk/live/test_euronews/playlist.m3u8
 
 #EXTINF:-1 tvg-id="EuronewsGreek.fr@SD" tvg-logo="https://i.imgur.com/8t9mdg9.png" group-title="Arabic",Euronews Greek (720p)
 https://cdn-euronews.akamaized.net/live/eds/euronews-el/25068/index.m3u8
@@ -3582,7 +3582,7 @@ http://5.254.89.106/6187/index.m3u8
 http://23.237.104.106:8080/USA_FOX_DEPORTES/index.m3u8
 
 #EXTINF:-1 tvg-id="FoxNewsChannel.us@SD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/67/Fox_News_Channel_logo.svg/960px-Fox_News_Channel_logo.svg.png" group-title="USTV",Fox News Channel (720p)
-http://45.190.28.50/FOX_NEWS/index.m3u8
+http://138.121.15.230:9002/FOX-NEWS/index.m3u8
 
 #EXTINF:-1 tvg-id="FoxNewsRadio.us@SD" tvg-logo="https://radio.foxnews.com/wp-content/uploads/2017/10/default_logo-150x150.png" group-title="USTV",Fox News Radio (720p)
 https://radiovid.foxnews.com/hls/live/661547/RADIOVID/index.m3u8
@@ -6977,8 +6977,8 @@ https://cdn3.wowza.com/5/L1Uzd2FrbVlLRG1W/live/smil:lwukweb.smil/playlist.m3u8
 #EXTINF:-1 tvg-id="MacGyver.de@GB" tvg-logo="https://images.pluto.tv/channels/6245ccd0c6cdb800074632e4/colorLogoPNG.png" group-title="UK",MacGyver
 https://jmp2.uk/plu-68503d585965a2fd49fc2f0b.m3u8
 
-#EXTINF:-1 tvg-id="MagnavisionTV.uk@SD" tvg-logo="https://i.imgur.com/mUHixbi.png" group-title="UK",Magna Vision (1080p)
-https://j78dpa3edq5r-hls-live.5centscdn.com/abr/0864028584026e6ad9cdf922473177a4/playlist.m3u8
+#EXTINF:-1 tvg-id="MagnavisionTV.uk@SD" tvg-logo="https://i.imgur.com/mUHixbi.png" group-title="UK",Magnavision TV (720p)
+https://manatv.akamaized.net/120723/smil:magnavision.smil/playlist.m3u8
 
 #EXTINF:-1 tvg-id="MarriedwithChildren.us@UK" tvg-logo="https://i.imgur.com/L9Epmtf.png" group-title="UK",Married... with Children
 https://jmp2.uk/plu-66bb3212fe11e5000883ea6b.m3u8
