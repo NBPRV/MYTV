@@ -1094,6 +1094,30 @@ https://vs-cmaf-pushb-ww-live.akamaized.net/x=4/i=urn:bbc:pips:service:bbc_arabi
 #EXTINF:-1 tvg-id="BBCNews.uk@Africa" tvg-logo="https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_BBC_NEWS/images/LOGO_HD/image.png" group-title="Arabic",BBC News Africa (1080p)
 https://vs-cmaf-push-ww-live.akamaized.net/x=4/i=urn:bbc:pips:service:bbc_news_channel_hd/hevc_iptv_mse_v0.mpd
 
+#EXTINF:-1 tvg-id="beINSports1.qa@MENA" tvg-logo="https://i.imgur.com/Vtk2cGI.png" group-title="Arabic",beIN Sports 1 (1080p)
+http://primetv.cc.cd/beinfhd1/tracks-v1a1/mono.tbin.m3u8
+
+#EXTINF:-1 tvg-id="beINSports2.qa@MENA" tvg-logo="https://i.imgur.com/vUJZSvs.png" group-title="Arabic",beIN Sports 2 (1080p)
+http://primetv.cc.cd/beinfhd2/index.m3u8
+
+#EXTINF:-1 tvg-id="beINSports3.qa@MENA" tvg-logo="https://i.imgur.com/UYSMao3.png" group-title="Arabic",beIN Sports 3 (1080p)
+http://primetv.cc.cd/beinfhd3/index.m3u8
+
+#EXTINF:-1 tvg-id="beINSports4.qa@MENA" tvg-logo="https://i.imgur.com/vwAgJNi.png" group-title="Arabic",beIN Sports 4 (1080p)
+http://primetv.cc.cd/beinfhd4/tracks-v1a1/mono.tbin.m3u8
+
+#EXTINF:-1 tvg-id="beINSports5.qa@MENA" tvg-logo="https://i.imgur.com/2Rha5aY.png" group-title="Arabic",beIN Sports 5 (1080p)
+http://primetv.cc.cd/beinfhd5/tracks-v1a1/mono.tbin.m3u8
+
+#EXTINF:-1 tvg-id="beINSports6.qa@MENA" tvg-logo="https://i.imgur.com/0wBdLYb.png" group-title="Arabic",beIN Sports 6 (1080p)
+http://primetv.cc.cd/beinfhd6/index.m3u8
+
+#EXTINF:-1 tvg-id="beINSports7.qa@MENA" tvg-logo="https://i.imgur.com/iODFwZi.png" group-title="Arabic",beIN Sports 7 (1080p)
+http://primetv.cc.cd/beinfhd7/index.m3u8
+
+#EXTINF:-1 tvg-id="beINSports8.qa@MENA" tvg-logo="https://i.imgur.com/CaFEyVn.png" group-title="Arabic",beIN Sports 8 (1080p)
+http://primetv.cc.cd/beinfhd8/index.m3u8
+
 #EXTINF:-1 tvg-id="BeitolAbbasTVChannel.iq@SD" tvg-logo="https://i.imgur.com/s8PfUQy.png" group-title="Arabic",BeitolAbbas TV Channel (720p)
 https://live.beitolabbas.tv/live/beitolabbastv.m3u8
 
@@ -2825,16 +2849,16 @@ https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg00327-coxmediagroup-kirobreaking-on
 #EXTINF:-1 tvg-id="CBS.us@KMTVTV" tvg-logo="https://i.imgur.com/E4PkyqN.png" group-title="USTV",CBS KMTV-TV (720p)
 https://aegis-cloudfront-1.tubi.video/0b16cabe-a8fd-4d91-99e5-3efb7aa740cc/playlist.m3u8
 
-#EXTINF:-1 tvg-id="CBS.us@KUTV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ee/CBS_logo_%282020%29.svg/960px-CBS_logo_%282020%29.svg.png" group-title="USTV",CBS KUTV (1080p)
+#EXTINF:-1 tvg-id="CBS.us@KUTV" tvg-logo="https://thumb.wikimedia.org/wikipedia/commons/thumb/d/d3/KUTV_13.svg/960px-KUTV_13.svg.png?utm_source=en.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail" group-title="USTV",CBS KUTV (1080p)
 https://linear-707.frequency.stream/dist/stirr/707/hls/master/playlist.m3u8
 
 #EXTINF:-1 tvg-id="CBS.us@KWTVDT" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ee/CBS_logo_%282020%29.svg/960px-CBS_logo_%282020%29.svg.png" group-title="USTV",CBS KWTV-DT (720p) [Not 24/7]
 https://fuel-streaming-prod01.fuelmedia.io/v1/sem/e48409e7-672d-42f2-b5e0-ebb6744b0425.m3u8
 
-#EXTINF:-1 tvg-id="CBS.us@KZTV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ee/CBS_logo_%282020%29.svg/960px-CBS_logo_%282020%29.svg.png" group-title="USTV",CBS KZTV (720p)
+#EXTINF:-1 tvg-id="CBS.us@KZTV" tvg-logo="https://thumb.wikimedia.org/wikipedia/commons/thumb/0/03/KZTV_logo%2C_introduced_in_2021.svg/960px-KZTV_logo%2C_introduced_in_2021.svg.png?utm_source=en.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail" group-title="USTV",CBS KZTV (720p)
 https://content.uplynk.com/channel/d1f868588ae5476dadaeff450170a183.m3u8
 
-#EXTINF:-1 tvg-id="CBS.us@WCBITV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ee/CBS_logo_%282020%29.svg/960px-CBS_logo_%282020%29.svg.png" group-title="USTV",CBS WCBI-TV (720p)
+#EXTINF:-1 tvg-id="CBS.us@WCBITV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/50/WCBITVDT.png?utm_source=en.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled" group-title="USTV",CBS WCBI-TV (720p)
 https://townnews.g-mana.live/media/4efc62fa-ad0b-445c-a839-4d1e7636988e/main.m3u8
 
 #EXTINF:-1 tvg-id="CBS.us@WDEFTV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ee/CBS_logo_%282020%29.svg/960px-CBS_logo_%282020%29.svg.png" group-title="USTV",CBS WDEF-TV (720p)
